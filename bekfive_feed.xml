@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-09-24T12:29+03:00">
+  <shop>
+    <name>Бек Файв</name>
+    <company>ИП Сныткин Роман Вячеславович</company>
+    <url>https://web.bek-five.pro/school/courses</url>
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Профессия дизайнера</category>
+      <category id="2">Дополнительные курсы по дизайну</category>
+    </categories>
+    <offers>
+      <offer id="ya-designer-7" available="true">
+        <name>Я дизайнер 7.0</name>
+        <url>https://web.bek-five.pro/info</url>
+        <price>30000</price>
+        <oldprice>40000</oldprice>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/tild3366-6338-4434-a539-633938646666/70.png</picture>
+        <vendor>Бек Файв</vendor>
+        <description>Флагманская программа: профессия дизайнера коммерческого визуала с нуля. Нейросети, полный курс по Figma, модуль по инфографике, практика на реальных заказах, поддержка кураторов и проверка ДЗ, портфолио и сертификат. Мини-курс «Быстрая ретушь фото» в подарок.</description>
+        <param name="Уровень">С нуля</param>
+        <param name="Объём">100+ уроков</param>
+        <param name="Доступ">3 месяца</param>
+        <param name="Формат">Уроки в записи, кураторы, проверка ДЗ</param>
+        <param name="Сертификат">Да</param>
+        <param name="Рассрочка">Да</param>
+      </offer>
+      <offer id="master-prompt-pro" available="true">
+        <name>Мастер Промпт PRO</name>
+        <url>https://web.bek-five.pro/master-prompt-pro</url>
+        <price>6000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/tild3963-3430-4232-b434-613366396463/7000.png</picture>
+        <vendor>Бек Файв</vendor>
+        <description>Продвинутый курс по нейросетям: создание собственных мастер-промптов под любую нишу и задачу. Карточки WB/Ozon, предметка, баннеры, нейрофотосессии, айдентика. Базовый курс «Мастер Промпт» и готовые мастер-промпты в подарок.</description>
+        <param name="Уровень">Для тех, кто уже работает с нейросетями</param>
+        <param name="Формат">Уроки в записи, чат поддержки</param>
+      </offer>
+      <offer id="figma-animation" available="true">
+        <name>Анимация в Figma</name>
+        <url>https://web.bek-five.pro/figma-anime</url>
+        <price>4000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/tild6138-3735-4633-a339-626665616465/Frame_1000003414_1.png</picture>
+        <vendor>Бек Файв</vendor>
+        <description>Видеообложки для карточек товаров прямо в Figma: анимированные баннеры и креативы для соцсетей. Каждый урок — готовая анимация, собранная своими руками.</description>
+        <param name="Объём">15+ уроков</param>
+        <param name="Формат">Уроки в записи, чат поддержки</param>
+      </offer>
+      <offer id="capcut-animation" available="true">
+        <name>Анимация в CapCut</name>
+        <url>https://web.bek-five.pro/cc-anime</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/tild3534-3535-4664-a563-343661646662/Frame_1000003346_1.png</picture>
+        <vendor>Бек Файв</vendor>
+        <description>Анимация в простом и бесплатном редакторе: видеообложки для маркетплейсов, анимированные баннеры для рекламы, креативы для соцсетей. С нуля, без опыта в монтаже.</description>
+        <param name="Уровень">С нуля</param>
+        <param name="Объём">37 уроков</param>
+        <param name="Формат">Уроки в записи, чат поддержки</param>
+      </offer>
+      <offer id="davinci" available="true">
+        <name>Анимация + монтаж в DaVinci</name>
+        <url>https://bek-five.pro/davinci</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/tild6639-3432-4064-b466-616461646339/photo.png</picture>
+        <vendor>Бек Файв</vendor>
+        <description>Одна бесплатная программа для всех задач по видео: от анимированных карточек товаров до рекламных роликов. Переходы, анимация текста, zoom-эффекты, «картинка в картинке», анимированные стикеры.</description>
+        <param name="Уровень">С нуля</param>
+        <param name="Объём">25+ уроков</param>
+        <param name="Формат">Уроки в записи, чат поддержки</param>
+      </offer>
+      <offer id="photoshop" available="true">
+        <name>Photoshop</name>
+        <url>https://web.bek-five.pro/school/courses</url>
+        <price>4000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/tild6639-3432-4064-b466-616461646339/photo.png</picture>
+        <vendor>Бек Файв</vendor>
+        <description>Доработка визуала там, где нейросети и Figma не справляются: слои, маски, выделение объектов, коллажи, работа со светом, тенями и цветом, доработка сгенерированных изображений.</description>
+        <param name="Объём">40+ уроков</param>
+        <param name="Формат">Уроки в записи, чат поддержки</param>
+      </offer>
+      <offer id="fast-retouch" available="true">
+        <name>Быстрая ретушь фото</name>
+        <url>https://web.bek-five.pro/school/courses</url>
+        <price>3000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/tild6639-3432-4064-b466-616461646339/photo.png</picture>
+        <vendor>Бек Файв</vendor>
+        <description>Как быстро довести фото товара до чистого профессионального вида: экспозиция, автокоррекция, маски, умное кадрирование, ретушь на нейросетях (RETOUCH BOT и ChatGPT).</description>
+        <param name="Объём">8 уроков</param>
+        <param name="Формат">Уроки в записи</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
