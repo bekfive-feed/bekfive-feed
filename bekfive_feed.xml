@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-24T12:29+03:00">
+<yml_catalog date="2026-09-30T14:40+03:00">
   <shop>
     <name>Бек Файв</name>
     <company>ИП Сныткин Роман Вячеславович</company>
@@ -68,41 +68,19 @@
       </offer>
       <offer id="davinci" available="true">
         <name>Анимация + монтаж в DaVinci</name>
-        <url>https://bek-five.pro/davinci</url>
-        <price>3000</price>
+        <url>https://web.bek-five.pro/davinci</url>
+        <price>4000</price>
+        <oldprice>7000</oldprice>
         <currencyId>RUR</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://static.tildacdn.com/tild6639-3432-4064-b466-616461646339/photo.png</picture>
+        <picture>https://static.tildacdn.com/tild3836-3462-4738-b634-653338613833/photo.png</picture>
         <vendor>Бек Файв</vendor>
         <description>Одна бесплатная программа для всех задач по видео: от анимированных карточек товаров до рекламных роликов. Переходы, анимация текста, zoom-эффекты, «картинка в картинке», анимированные стикеры.</description>
         <param name="Уровень">С нуля</param>
         <param name="Объём">25+ уроков</param>
         <param name="Формат">Уроки в записи, чат поддержки</param>
       </offer>
-      <offer id="photoshop" available="true">
-        <name>Photoshop</name>
-        <url>https://web.bek-five.pro/school/courses</url>
-        <price>4000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://static.tildacdn.com/tild6639-3432-4064-b466-616461646339/photo.png</picture>
-        <vendor>Бек Файв</vendor>
-        <description>Доработка визуала там, где нейросети и Figma не справляются: слои, маски, выделение объектов, коллажи, работа со светом, тенями и цветом, доработка сгенерированных изображений.</description>
-        <param name="Объём">40+ уроков</param>
-        <param name="Формат">Уроки в записи, чат поддержки</param>
-      </offer>
-      <offer id="fast-retouch" available="true">
-        <name>Быстрая ретушь фото</name>
-        <url>https://web.bek-five.pro/school/courses</url>
-        <price>3000</price>
-        <currencyId>RUR</currencyId>
-        <categoryId>2</categoryId>
-        <picture>https://static.tildacdn.com/tild6639-3432-4064-b466-616461646339/photo.png</picture>
-        <vendor>Бек Файв</vendor>
-        <description>Как быстро довести фото товара до чистого профессионального вида: экспозиция, автокоррекция, маски, умное кадрирование, ретушь на нейросетях (RETOUCH BOT и ChatGPT).</description>
-        <param name="Объём">8 уроков</param>
-        <param name="Формат">Уроки в записи</param>
-      </offer>
+      <!-- Photoshop и «Быстрая ретушь фото» временно убраны: нет отдельных посадочных страниц с оплатой. Вернуть, когда будут готовы, заменив url. -->
     </offers>
   </shop>
 </yml_catalog>
